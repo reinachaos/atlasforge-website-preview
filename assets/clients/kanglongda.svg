@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" role="img" aria-label="Kanglongda Vietnam 康隆达越南">
+  <!-- Shield inline left -->
+  <g stroke="#7A3B1F" stroke-width="2.5" fill="none">
+    <path d="M14 6 L52 6 L52 36 C52 50 38 58 33 60 C28 58 14 50 14 36 Z" fill="#FFFFFF"/>
+    <path d="M20 18 L33 12 L46 18"/>
+    <path d="M20 26 L33 20 L46 26"/>
+    <path d="M20 34 L33 28 L46 34"/>
+    <path d="M20 42 L33 36 L46 42"/>
+  </g>
+  <text x="56" y="14" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" fill="#7A3B1F">®</text>
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#7A3B1F">
+    <text x="68" y="36" font-size="26" font-weight="800" letter-spacing="1.5">KANGLONGDA</text>
+    <text x="68" y="56" font-size="18" font-weight="700" letter-spacing="3">VIET NAM</text>
+  </g>
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" fill="#7A3B1F">
+    <text x="302" y="48" font-size="22" font-weight="700" letter-spacing="3">康隆达</text>
+  </g>
+</svg>

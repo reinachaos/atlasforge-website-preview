@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 60" role="img" aria-label="Wintek 胜华科技">
+  <g fill="#1FA4E8">
+    <path d="M14 8 L26 8 L14 52 L2 52 Z"/>
+    <path d="M32 8 L44 8 L32 52 L20 52 Z"/>
+    <path d="M50 8 L62 8 L50 52 L38 52 Z"/>
+  </g>
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#0E2454">
+    <text x="72" y="50" font-size="52" font-weight="800" letter-spacing="-1">wintek</text>
+  </g>
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" fill="#0E2454">
+    <text x="252" y="44" font-size="22" font-weight="700" letter-spacing="3">胜华科技</text>
+  </g>
+</svg>

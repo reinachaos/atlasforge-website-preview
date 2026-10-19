@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" role="img" aria-label="Leoch Battery 理士电池">
+  <!-- Speed lines + horse on the left, inline -->
+  <g>
+    <path d="M2 26 L18 26 M0 36 L16 36 M4 46 L20 46" stroke="#D8232A" stroke-width="3" stroke-linecap="round"/>
+    <path d="M28 38 C34 26 46 22 58 28 L64 18 L70 28 L82 24 L78 34 L90 36 L84 44 L94 50 L82 54 L86 62 L72 60 L68 64 L60 60 L52 64 L48 60 L36 60 L38 50 L26 50 Z" fill="#0E4FA3"/>
+  </g>
+  <!-- Inline wordmark -->
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#0E4FA3">
+    <text x="108" y="46" font-size="46" font-weight="900" letter-spacing="2">LEOCH</text>
+    <text x="266" y="46" font-size="32" font-weight="700" letter-spacing="4">BATTERY</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" role="img" aria-label="Lee &amp; Man 理文造纸">
+  <!-- Original Lee & Man circular mark, scaled down to ~60x60 -->
+  <g transform="translate(2,2) scale(0.469)">
+    <path d="m64 0c-35.3 0-64 28.7-64 64s28.7 64 64 64 64-28.7 64-64-28.7-64-64-64zm54.4 64c0 11-3.3 21.3-8.9 29.8h-82.4l30.6-83.9c2.1-.2 4.2-.4 6.3-.4 30.1.1 54.4 24.4 54.4 54.5zm-74-50.8-28.3 76.7c-4.2-7.7-6.5-16.5-6.5-25.9 0-23.2 14.4-42.9 34.8-50.8zm-17.8 90.3h74.8c-9.8 9.2-22.9 14.9-37.4 14.9s-27.7-5.6-37.4-14.9zm27.8-62.8c-.2.4.1.8.5.8h2.2c.6 0 1.1.6.9 1.2l-16.6 44.9h10.2l16.5-45c.3-.7 1-1.2 1.8-1.2 1.3 0 2.2 1.3 1.8 2.5l-16 43.7h10.4l16-44.8c.3-.8 1-1.3 1.8-1.3 1.3 0 2.3 1.3 1.8 2.6l-16.3 43.5h10.6s16.6-46 17.8-49.3c1.3-3.3.6-8.1-3.1-8.1-2.2 0-4.7 2.4-6.4 4.3-.8.9-2.3.8-2.9-.3-1-1.8-2.7-4-5-4-2.5 0-5.3 2.3-7.1 4.1-.8.8-2.1.6-2.7-.3-.9-1.3-2.3-2.9-4.3-2.9-6.3 0-10.6 7.1-11.9 9.6z" fill="#006f69"/>
+  </g>
+  <!-- Wordmark inline right -->
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#006f69">
+    <text x="74" y="36" font-size="26" font-weight="800" letter-spacing="2">LEE &amp; MAN</text>
+  </g>
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" fill="#006f69">
+    <text x="74" y="58" font-size="20" font-weight="700" letter-spacing="3">理文造纸</text>
+  </g>
+</svg>

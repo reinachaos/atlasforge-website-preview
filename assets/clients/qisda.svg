@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 60" role="img" aria-label="Qisda 佳世达">
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#143A6A">
+    <text x="6" y="50" font-size="56" font-weight="700" letter-spacing="-1">Qisda</text>
+  </g>
+  <!-- subtle dot pattern aligned to the right -->
+  <g fill="#143A6A" opacity="0.18">
+    <circle cx="200" cy="22" r="2"/><circle cx="214" cy="22" r="2"/><circle cx="228" cy="22" r="2"/><circle cx="242" cy="22" r="2"/><circle cx="256" cy="22" r="2"/><circle cx="270" cy="22" r="2"/>
+    <circle cx="200" cy="36" r="2"/><circle cx="214" cy="36" r="2"/><circle cx="228" cy="36" r="2"/><circle cx="242" cy="36" r="2"/><circle cx="256" cy="36" r="2"/><circle cx="270" cy="36" r="2"/>
+  </g>
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" fill="#143A6A">
+    <text x="290" y="42" font-size="20" font-weight="700" letter-spacing="3">佳世达</text>
+  </g>
+</svg>

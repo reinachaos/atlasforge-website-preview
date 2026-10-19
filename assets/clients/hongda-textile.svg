@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" role="img" aria-label="Hongda Textile 泓大纺织">
+  <!-- Navy badge containing HD mark on the left -->
+  <g>
+    <rect x="2" y="2" width="60" height="60" rx="4" fill="#1B2C5A"/>
+    <rect x="10" y="10" width="10" height="10" fill="#D8232A"/>
+    <path d="M8 26 Q32 14 56 26" stroke="#FFFFFF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <text x="18" y="52" font-family="'Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="-1">HD</text>
+  </g>
+  <!-- Wordmark inline right -->
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#1B2C5A">
+    <text x="74" y="32" font-size="22" font-weight="800" letter-spacing="3">HONGDA TEXTILE</text>
+  </g>
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" fill="#D8232A">
+    <text x="74" y="56" font-size="22" font-weight="800" letter-spacing="4">泓大纺织</text>
+  </g>
+</svg>

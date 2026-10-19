@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" role="img" aria-label="BW Industrial">
+  <defs>
+    <linearGradient id="bwGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1FA4E8"/>
+      <stop offset="100%" stop-color="#0E66A8"/>
+    </linearGradient>
+  </defs>
+  <g font-family="'Helvetica Neue',Arial,sans-serif">
+    <text x="6" y="50" font-size="58" font-weight="900" fill="url(#bwGrad)" letter-spacing="-3">BW</text>
+    <text x="124" y="46" font-size="40" font-weight="300" fill="#0E2454" letter-spacing="3">INDUSTRIAL</text>
+  </g>
+</svg>

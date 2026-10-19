@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 60" role="img" aria-label="Neway Valve 纽威阀门">
+  <g>
+    <path d="M4 50 L18 6 L30 6 L34 30 L38 6 L50 6 L62 50 L52 50 L46 22 L42 50 L32 50 L28 22 L18 50 Z" fill="#E2241A"/>
+  </g>
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#0E4FA3">
+    <text x="74" y="50" font-size="46" font-weight="900" font-style="italic" letter-spacing="1">NEWAY</text>
+  </g>
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" fill="#0E4FA3">
+    <text x="248" y="44" font-size="22" font-weight="700" letter-spacing="3">纽威阀门</text>
+  </g>
+</svg>

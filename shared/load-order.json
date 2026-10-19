@@ -1,0 +1,224 @@
+{
+  "scripts": [
+    "shared/registry.js",
+    "shared/settings.js",
+    "shared/image-variants.js",
+    "shared/expansion-images.js",
+    "pages/home/content.js",
+    "pages/about/about.js",
+    "pages/about/us-operations.js",
+    "pages/about/safety-quality.js",
+    "pages/services/services.js",
+    "pages/services/industrial-construction.js",
+    "pages/services/mep.js",
+    "pages/services/cleanrooms.js",
+    "pages/services/design-coordination.js",
+    "pages/services/procurement.js",
+    "pages/projects/projects.js",
+    "pages/projects/terahop.js",
+    "pages/projects/foxlink.js",
+    "pages/projects/delta.js",
+    "pages/projects/kunshan.js",
+    "pages/projects/bw-logistics.js",
+    "pages/careers/careers.js",
+    "pages/contact/contact.js",
+    "pages/services/data-centers.js",
+    "pages/projects/neway-valve.js",
+    "pages/projects/foxlink-da-nang.js",
+    "pages/careers/mep-engineer.js",
+    "pages/careers/structural-engineer.js",
+    "pages/careers/mep-engineering-intern.js",
+    "pages/careers/structural-engineering-intern.js",
+    "pages/projects/us-cards/yinlun-tdi.js",
+    "pages/projects/us-cards/kevin-new-energy.js",
+    "pages/projects/us-cards/united-imaging.js",
+    "pages/projects/us-cards/inventec.js",
+    "pages/projects/group-cards/foxconn-e01.js",
+    "pages/projects/group-cards/bw-scc01.js",
+    "pages/projects/group-cards/yen-phong.js",
+    "pages/projects/group-cards/lee-man.js",
+    "pages/projects/group-cards/dong-tien-phong.js",
+    "pages/projects/group-cards/celebrity-seamless.js",
+    "pages/projects/group-cards/hongda.js",
+    "pages/projects/group-cards/bestway.js",
+    "pages/projects/group-cards/yushu.js",
+    "pages/projects/group-cards/zt-textile.js",
+    "pages/projects/group-cards/ziri.js",
+    "pages/projects/group-cards/advance-tyre.js",
+    "pages/projects/group-cards/bowei.js",
+    "pages/projects/group-cards/susa.js",
+    "pages/projects/group-cards/xenia-2.js",
+    "pages/projects/group-cards/celebrity-phase2.js",
+    "pages/projects/group-cards/able-pack.js",
+    "pages/projects/group-cards/xenia-1.js",
+    "pages/home/layout.js",
+    "pages/home/clients.js",
+    "pages/projects/render.js",
+    "pages/home/render.js",
+    "pages/careers/applications.js",
+    "pages/careers/render-list.js",
+    "pages/careers/render-position.js",
+    "pages/services/render-data-centers.js",
+    "pages/contact/render.js",
+    "shared/app.js"
+  ],
+  "styles": [
+    "styles/base.css",
+    "styles/style.css",
+    "styles/additions.css",
+    "pages/home/clients.css",
+    "styles/expansion.css"
+  ],
+  "routes": {
+    "index": {
+      "title": "首页",
+      "group": "home",
+      "content": "pages/home/content.js",
+      "style": "pages/home/content.css"
+    },
+    "about": {
+      "title": "关于 Atlasforge",
+      "group": "about",
+      "content": "pages/about/about.js",
+      "style": "pages/about/about.css"
+    },
+    "us-operations": {
+      "title": "美国运营",
+      "group": "about",
+      "content": "pages/about/us-operations.js",
+      "style": "pages/about/us-operations.css"
+    },
+    "safety-quality": {
+      "title": "安全与质量",
+      "group": "about",
+      "content": "pages/about/safety-quality.js",
+      "style": "pages/about/safety-quality.css"
+    },
+    "services": {
+      "title": "工程服务",
+      "group": "services",
+      "content": "pages/services/services.js",
+      "style": "pages/services/services.css"
+    },
+    "industrial-construction": {
+      "title": "工业建设与改扩建",
+      "group": "services",
+      "content": "pages/services/industrial-construction.js",
+      "style": "pages/services/industrial-construction.css"
+    },
+    "mep": {
+      "title": "机电工程",
+      "group": "services",
+      "content": "pages/services/mep.js",
+      "style": "pages/services/mep.css"
+    },
+    "cleanrooms": {
+      "title": "洁净室与生产配套",
+      "group": "services",
+      "content": "pages/services/cleanrooms.js",
+      "style": "pages/services/cleanrooms.css"
+    },
+    "design-coordination": {
+      "title": "设计与工程协调",
+      "group": "services",
+      "content": "pages/services/design-coordination.js",
+      "style": "pages/services/design-coordination.css"
+    },
+    "procurement": {
+      "title": "采购与供应链",
+      "group": "services",
+      "content": "pages/services/procurement.js",
+      "style": "pages/services/procurement.css"
+    },
+    "projects": {
+      "title": "项目案例",
+      "group": "projects",
+      "content": "pages/projects/projects.js",
+      "style": "pages/projects/projects.css"
+    },
+    "terahop": {
+      "title": "Terahop Photonics 光子学制造工厂",
+      "group": "projects",
+      "content": "pages/projects/terahop.js",
+      "style": "pages/projects/terahop.css"
+    },
+    "foxlink": {
+      "title": "Foxlink Texas 工厂改造",
+      "group": "projects",
+      "content": "pages/projects/foxlink.js",
+      "style": "pages/projects/foxlink.css"
+    },
+    "delta": {
+      "title": "Delta Electronics 制造园区",
+      "group": "projects",
+      "content": "pages/projects/delta.js",
+      "style": "pages/projects/delta.css"
+    },
+    "kunshan": {
+      "title": "昆山晟成洁净室改造",
+      "group": "projects",
+      "content": "pages/projects/kunshan.js",
+      "style": "pages/projects/kunshan.css"
+    },
+    "bw-logistics": {
+      "title": "BW Industrial 南山合岭 A2 物流项目",
+      "group": "projects",
+      "content": "pages/projects/bw-logistics.js",
+      "style": "pages/projects/bw-logistics.css"
+    },
+    "careers": {
+      "title": "一起开启职业新篇章",
+      "group": "careers",
+      "content": "pages/careers/careers.js",
+      "style": "pages/careers/careers.css"
+    },
+    "contact": {
+      "title": "一起讨论你的项目",
+      "group": "contact",
+      "content": "pages/contact/contact.js",
+      "style": "pages/contact/contact.css"
+    },
+    "data-centers": {
+      "title": "数据中心",
+      "group": "services",
+      "content": "pages/services/data-centers.js",
+      "style": "pages/services/data-centers.css"
+    },
+    "neway-valve": {
+      "title": "纽威阀门越南厂房",
+      "group": "projects",
+      "content": "pages/projects/neway-valve.js",
+      "style": "pages/projects/neway-valve.css"
+    },
+    "foxlink-da-nang": {
+      "title": "岘港正崴 DN2 A1 一期厂房",
+      "group": "projects",
+      "content": "pages/projects/foxlink-da-nang.js",
+      "style": "pages/projects/foxlink-da-nang.css"
+    },
+    "mep-engineer": {
+      "title": "机电工程师",
+      "group": "careers",
+      "content": "pages/careers/mep-engineer.js",
+      "style": "pages/careers/mep-engineer.css"
+    },
+    "structural-engineer": {
+      "title": "结构工程师",
+      "group": "careers",
+      "content": "pages/careers/structural-engineer.js",
+      "style": "pages/careers/structural-engineer.css"
+    },
+    "mep-engineering-intern": {
+      "title": "机电工程实习生",
+      "group": "careers",
+      "content": "pages/careers/mep-engineering-intern.js",
+      "style": "pages/careers/mep-engineering-intern.css"
+    },
+    "structural-engineering-intern": {
+      "title": "结构工程实习生",
+      "group": "careers",
+      "content": "pages/careers/structural-engineering-intern.js",
+      "style": "pages/careers/structural-engineering-intern.css"
+    }
+  }
+}

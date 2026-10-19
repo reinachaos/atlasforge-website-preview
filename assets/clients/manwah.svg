@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 64" role="img" aria-label="Manwah 敏华">
+  <!-- Orange ribbon mark inline on the left -->
+  <g fill="none" stroke="#E97324" stroke-width="4.5" stroke-linecap="round">
+    <path d="M6 44 C6 22 26 22 26 44 C26 22 46 22 46 44 C46 22 66 22 66 44 C66 22 86 22 86 44 L102 44 C110 44 112 38 106 32"/>
+  </g>
+  <!-- Wordmark -->
+  <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#3A3A3A">
+    <text x="124" y="50" font-size="44" font-weight="800" letter-spacing="6">MANWAH</text>
+  </g>
+</svg>

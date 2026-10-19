@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 60" role="img" aria-label="Foxlink 正崴精密">
+  <defs>
+    <clipPath id="foxlinkClip">
+      <rect x="0" y="0" width="360" height="60"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#foxlinkClip)">
+    <g font-family="'Helvetica Neue',Arial,sans-serif" fill="#1F2A56">
+      <text x="6" y="50" font-size="56" font-weight="900" font-style="italic" letter-spacing="-1">FOXLiNK</text>
+    </g>
+    <g stroke="#FFFFFF" stroke-width="4" opacity="0.9">
+      <line x1="0" y1="38" x2="290" y2="6"/>
+      <line x1="0" y1="46" x2="290" y2="14"/>
+    </g>
+  </g>
+</svg>
